@@ -8,6 +8,6 @@
 * `Ctrl-V` - paste code (replaces entire level)
 * `Space` - pause/unpause
 * `-` - decrease tick speed
-* `=` - increase tick speed (it's equals cause that's the same key as +)
+* `=` - increase tick speed (`=` is the same key as `+`)
 
 Tick Speed is how many ticks it waits for the next generation, Cell Size is how many pixels every cell is.
